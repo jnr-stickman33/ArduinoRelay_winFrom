@@ -1,0 +1,10 @@
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\bin\Debug\ArduinoRelay.exe.config
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\bin\Debug\ArduinoRelay.exe
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\bin\Debug\ArduinoRelay.pdb
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.csprojAssemblyReference.cache
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.Form1.resources
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.Properties.Resources.resources
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.csproj.GenerateResource.cache
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.exe
+D:\OneDrive\Documents\SourceCode\1. Local Work - Not Sync\ArduinoRelay\obj\Debug\ArduinoRelay.pdb
